@@ -3,6 +3,12 @@
 
 <img src="Screenshots/Picture1.jpg">
 
+<b>Introduction:</b>
+Money is something very much valuable and required for the survival. Saving money is a crucial task to be done in our daily routine so as to ensure a secured future.
+Here comes the use of PiggyPal to keep track of all the savings.
+This project enables the user to login or signup as a new user.  The only task of the user is to register or login into the application and deposit or withdraw the amount. It also shows the current savings of the user.
+With the help of PiggyPal, user can balance the expenditures and savings so as to ensure a financially secured life.
+
  <b>Steps:</b>
  1)	The first frame that appears asks you to select either to Login into previous account or SignUp for a new account.
 2)	If SignUp button is pressed another frame appears to set username and asks user to enter pin and confirm it.
